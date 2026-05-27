@@ -6,6 +6,7 @@
 
 [![Email](https://img.shields.io/badge/bangle161004@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:bangle161004@gmail.com)
 [![GitHub](https://img.shields.io/badge/@congbang04-181717?style=flat&logo=github&logoColor=white)](https://github.com/congbang04)
+[![Location](https://img.shields.io/badge/TP.HCM,_Vietnam-0ea5e9?style=flat&logo=googlemaps&logoColor=white)](#)
 
 </div>
 
