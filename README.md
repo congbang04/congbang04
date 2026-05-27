@@ -100,9 +100,4 @@ I care about writing clean, maintainable code and applying proper architecture p
 - Containerized the development environment with Docker
 
 ---
-
-<div align="center">
-
-*"Clean code, real solutions."*
-
 </div>
