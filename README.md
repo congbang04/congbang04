@@ -72,7 +72,7 @@ I care about writing clean, maintainable code and applying proper architecture p
 ### 🛒 E-Commerce Website
 > PHP MVC e-commerce site — product listing, search, cart, and checkout
 
-**GitHub:** [ecommerce-website-php-mvc](https://github.com/congbang04/ecommerce-website-php-mvc) · **Live:** [electromart.online/public](https://electromart.online/public)
+**GitHub:** [ecommerce-website-php-mvc](https://github.com/congbang04/ecommerce-website-php-mvc) 
 
 `PHP` `MVC` `JavaScript` `Fetch API` `MySQL` `HTML/CSS`
 
