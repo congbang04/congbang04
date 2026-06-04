@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Lê Công Bằng 👋
+# Hi, I'm Lê Công Bằng
 
 **PHP Laravel Developer** · Final-year Software Engineering student @ Van Hien University
 
@@ -12,20 +12,20 @@
 
 ---
 
-## 👨‍💻 About Me
+## About Me
 
 I'm a final-year **Software Engineering** student (GPA 3.56/4.0) with hands-on experience building **Laravel web applications** — from RESTful API design and database architecture to real-time WebSocket integration.
 
 I care about writing clean, maintainable code and applying proper architecture patterns. Currently finishing my thesis project — a full-featured garage chain management system built solo with Laravel.
 
-- 🎓 Van Hien University · Software Engineering · 2022–2026
-- 💼 Backend Intern @ **Rivercrane Vietnam** (Oct–Dec 2025)
-- 🔨 Currently building: **Garage Chain Management System** (thesis)
-- 📫 Reach me at: **bangle161004@gmail.com**
+- Van Hien University · Software Engineering · 2022–2026
+- Backend Intern @ **Rivercrane Vietnam** (Sep–Nov 2025)
+- Currently building: **Garage Chain Management System** (thesis)
+- Reach me at: **bangle161004@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 **Backend**
 
@@ -44,15 +44,17 @@ I care about writing clean, maintainable code and applying proper architecture p
 **Tools & DevOps**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Laravel Cloud](https://img.shields.io/badge/Laravel_Cloud-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Cloudflare R2](https://img.shields.io/badge/Cloudflare_R2-F38020?style=flat&logo=cloudflare&logoColor=white)
+![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat&logo=laravel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
-![Laravel Reverb](https://img.shields.io/badge/Laravel_Reverb-FF2D20?style=flat&logo=laravel&logoColor=white)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔧 Garage Chain Management System
+### Garage Chain Management System
 > Full-stack Laravel application for managing multi-branch auto repair operations — built as final year thesis (individual project)
 
 **Key highlights:**
@@ -69,7 +71,7 @@ I care about writing clean, maintainable code and applying proper architecture p
 
 ---
 
-### 🛒 E-Commerce Website
+### E-Commerce Website
 > PHP MVC e-commerce site — product listing, search, cart, and checkout
 
 **GitHub:** [ecommerce-website-php-mvc](https://github.com/congbang04/ecommerce-website-php-mvc) 
@@ -78,7 +80,7 @@ I care about writing clean, maintainable code and applying proper architecture p
 
 ---
 
-### 📱 Food Ordering Android App
+### Food Ordering Android App
 > Android food ordering app — search, order history, order details
 
 **GitHub:** [food-ordering-android-app](https://github.com/congbang04/food-ordering-android-app)
@@ -87,11 +89,11 @@ I care about writing clean, maintainable code and applying proper architecture p
 
 ---
 
-## 💼 Experience
+## Experience
 
 | Period | Role | Company |
 |---|---|---|
-| 10/2025 – 12/2025 | Backend PHP Laravel Developer (Intern) | Rivercrane Vietnam |
+| 09/2025 – 11/2025 | Backend PHP Laravel Developer (Intern) | Rivercrane Vietnam |
 
 **@ Rivercrane Vietnam:**
 - Built RESTful APIs for an online motorcycle repair booking system
